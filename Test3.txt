@@ -1,7 +1,15 @@
-;nrew barjcvsajdflksaf
-s
-dfg
-sdfg
-sdf
-gs
-dfv
+make changes
+git add -u
+git commit -m "message"
+git push origin branch_name
+
+
+
+git checkout -b new_branch_name
+
+
+
+git checkout existing_branch_name
+
+
+
